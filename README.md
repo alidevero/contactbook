@@ -3,7 +3,7 @@
 ### Clone the repository
 
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/alidevero/contactbook.git
 cd your-repo
 
 **Create virtual environment & activate**
